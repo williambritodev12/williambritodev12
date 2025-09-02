@@ -66,6 +66,3 @@ Minha paixão está em transformar ideias em realidade digital, sempre com aten�
     <img src="https://github-readme-streak-stats.herokuapp.com?user=williambritodev12&theme=dark" alt="GitHub Streak">
   </a>
 </p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=williambritodev12&theme=ambient-gradient&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
